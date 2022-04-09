@@ -1,1 +1,3 @@
-# Weekly Mission 1
+# Primera semana de Backend
+
+>Se agregaron los ejercicios resueltos
