@@ -6,6 +6,9 @@ class Reader{
         const explorers = JSON.parse(rawdata);
         return explorers
     }
+   /* static hello(msg){
+        return `Hola ${msg}`
+    }*/
 }
 
 module.exports = Reader
